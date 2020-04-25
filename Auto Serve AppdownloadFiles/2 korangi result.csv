@@ -1,0 +1,12 @@
+locationId,childrenMealsesTarget,childrenfullyimmunized,locName,bcgTarget,otherTarget,coverage,coverageProgram,locationName
+3,3243,11,"Bilal Colony",3492,3240,0.0033950617283950617,0.0034,"Bilal Colony"
+7,457,3,"Hundred Quarters",3348,3096,0.0009689922480620155,0.0066,"Hundred Quarters"
+656,811,2,"UC 10",2508,2316,0.0008635578583765112,0.0025,"UC 10"
+11,395,2,"Korangi Sector 33",3384,3132,0.0006385696040868455,0.0051,"Korangi Sector 33"
+12,239,1,"Zaman Town",3312,3072,0.0003255208333333333,0.0042,"Zaman Town"
+10,152,1,"Gulzar Colony",3564,3300,0.00030303030303030303,0.0066,"Gulzar Colony"
+5,272,0,"Chakra Goth",3348,3108,0,0.0000,"Chakra Goth"
+13,120,0,"Hasrat Mohani Colony",3348,3108,0,0.0000,"Hasrat Mohani Colony"
+4,545,0,"Nasir Colony",3360,3108,0,0.0000,"Nasir Colony"
+832,13,0,"Silver Town",3336,3084,0,0.0000,"Silver Town"
+6,844,2,"Mustafa Taj Colony",NULL,NULL,NULL,0.0024,"Mustafa Taj Colony"
